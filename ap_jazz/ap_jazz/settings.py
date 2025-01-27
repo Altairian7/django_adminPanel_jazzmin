@@ -133,15 +133,15 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 JAZZMIN_SETTINGS = {
-    "site_title": "DLedger",
-    "site_header": "DLedger",
-    "site_brand": "DLedger",
+    "site_title": "D_Ledger",
+    "site_header": "D_Ledger",
+    "site_brand": "D_Ledger",
     "site_icon": "images/favicon.png",
     # Add your own branding here
     "site_logo": None,
-    "welcome_sign": "Welcome to the DLedger",
+    "welcome_sign": "Welcome to the D_Ledger",
     # Copyright on the footer
-    "copyright": "DLedger",
+    "copyright": "D_Ledger",
     "user_avatar": None,
     ############
     # Top Menu #
